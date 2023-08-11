@@ -1,0 +1,34 @@
+body,html{
+    margin:auto;
+    border:solid 10px rgb(171, 52, 31);
+    background-color: #eadbd6;
+}
+
+#destaque {
+    background-image: url(fundo.jpg);
+    background-size: cover;
+    text-align: justify;
+    color: rgb(154, 199, 32);
+    height: 225px;
+}
+
+.item{
+    text-align:center;  
+    font-family: Arial, Helvetica, sans-serif;
+    border: solid; color: rgb(36, 194, 62);
+
+}
+
+#produtos{
+    border: 15px;
+    
+}
+
+footer{
+    font-size: 70%;
+    text-align: center;
+    background-color: rgb(172, 156, 143);
+    width: 
+    
+}
+
